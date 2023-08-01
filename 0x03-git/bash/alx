@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-#!/bin/ba"
-=======
+
 #!/bin/bash
-echo "ALX School is cool"
->>>>>>> refs/remotes/origin/master
-echo "ALX"
+echo "ALX School"
+
+
+
 
